@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Student at Warsaw Universtiy of Technology<br>Student of Automatic Control and Robotics<br>Open to work<br>Currently learning React.js
+Graduate of Warsaw University of Technology  
+Degree in Automatic Control and Robotics  
+R&D Architect at Orange  
+Open to new opportunities 
 
 
 ## 🌐 Socials:
