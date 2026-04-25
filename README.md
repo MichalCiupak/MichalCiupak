@@ -11,6 +11,13 @@ Open to new opportunities
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michalciupak0)  Michał Ciupak
 
+## 🎓 Certifications
+
+[![AI_devs 4 Builders](https://img.shields.io/badge/AI__devs%204-Builders-412991?style=for-the-badge&logo=openai&logoColor=white)](https://credsverse.com/credentials/43d5b8e1-dd62-46a5-b9de-2970e5166c92)
+
+**AI_devs 4 Builders** — Professional course focused on building and deploying production-ready Generative AI solutions, context engineering, advanced agent design, and AI workflows.  
+Issued by **AI_devs** · April 2026  
+[Verify credential](https://credsverse.com/credentials/43d5b8e1-dd62-46a5-b9de-2970e5166c92)
 
 ## 🧠 Focus Areas
 - Artificial Intelligence / Generative AI
